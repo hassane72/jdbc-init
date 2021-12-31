@@ -1,0 +1,8 @@
+com\modelis\nicad\ShpSifCommuneLoader.class
+com\modelis\nicad\CommuneSifCleaner.class
+com\modelis\nicad\DataLoader.class
+com\modelis\nicad\NiCadUpdater.class
+com\modelis\nicad\ShpSifSectionLoader.class
+com\modelis\nicad\OneDataLine.class
+com\modelis\nicad\Configuration.class
+com\modelis\nicad\DBManager.class
